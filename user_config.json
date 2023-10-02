@@ -1,0 +1,21 @@
+{
+  "AccountIndex" : 36396704,
+  "AccountIdHash" : "258708db242361ab09b6cacf3d6e73451ab796918ba280610cbf35a98c47cef9",
+  "TotalEquity" : 10099002646213952,
+  "TotalDebt" : 0,
+  "Assets" : [ {
+    "Index" : 3,
+    "Equity" : 101000000,
+    "Debt" : 0
+  }, {
+    "Index" : 128,
+    "Equity" : 12,
+    "Debt" : 0
+  }, {
+    "Index" : 144,
+    "Equity" : 110,
+    "Debt" : 0
+  } ],
+  "Root" : "2a6e1eefd8b98ffc25a60f9a09a4052e166049548074bb1d75c929a72501ba1e",
+  "Proof" : [ "HAyPik8K06O31aoRRwzjSFbEAe0kQ9xfw9+ru394Pu8=", "BCEH8j3AupAmN32L6apZpWCwTgnZO0ZV+oXw/uKMh1c=", "G5UW7OYOKe8v82kqXrbS3IIfxiWBEbgexErn3U6gXDI=", "IRE4ldQKYEdtwPqFyRrbCljC80CM1MxHhi9PR+HwW2Q=", "BvLA6UXOO5K52FKV1N83NyqvGEhr0JiDSNOcTSNdfbQ=", "KUal5233IiuR/qcpaSOGJDUlwbRsz2AfWcpD40ev0zU=", "JZbEWj9H3D+TpKN0ejvJ3USzgHpDL94U3H1Kgb5qauo=", "F/QeXcJNlSD2ViA06mmUsUF+svXsgxFRCfNFzEMjik8=", "FYdRqsdO1yAFbbJnEQJdIMDiTLg7xQa9aOYst5qtnPg=", "KZBRJN5N47bEMdJLjnt55/PmNKi1RLptqqAjR8N7sF0=", "IQR1P2aK2l0mr/QKPQPM4gMsQN8rlSmL9OoKl+0LHiQ=", "J3YILWQjsS7MheJitWRXOE+Vcn3T2YE8yYyFWFS6eG0=", "DANbDXrpaJBVpnjS76H9LJfjy8DqWUN1CL/QIBMHFHM=", "FlRgwIBg1sHyh76o56piT3MiGvMmcEbH1xDKmGVyN9g=", "IBT6auuDzm9A9WqZTaQhX7zEFLwpdov3iHrjwXejVRI=", "CRoabU3x0AcN8uYLmbsuHz1yol3lXLYw0IUd18xYn40=", "GD4kHTv5bkmb2qSkxRmmqRd7wRl9/AWFClnSiw/RhZs=", "IhAFtr2gTkxGSy37lTSZf/njyvcu3HpEG0PIy1GGiBM=", "IcA500qaItpc/U8YUcIcRQV6Qmer+XduKTkHgaHepgI=", "AifYsSM6sGjw4qG9t1CsaLjx2D05Vjs7H3L5Yw5cSnI=", "Jn6zO/zpSp5POVm6kAKJrTAfWXB5z+LNrHIMcSBCgB4=", "HKsTTEHTskictJH26QthypcHrEKitnQCfAPUK8DVeOo=", "E+5AkiE/Lcx2spRVbrb55ubmysdrekeihgR4GOSQJCw=", "JVAo8ENfo6xcOTJ+l6w8zHAcZ6SK0TRF3v2mzKBMf0s=", "Fotw+U5orv9231KkpBYOXM+odtZGgCaNw5zOY+xZ5Oc=", "KeAP1BPhZ1DbioHEFzIzNopXOTytTxjOvbJGSSg3IHg=", "EUZQwQDUH48osqrtgcPuAQsQvdVKTC+hYmKvIhzImZQ=", "HKC2vx3pnDTdfyrzYjCbJMcxojJfvuyzj2/rMMiMplQ=" ]
+}
